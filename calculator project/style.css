@@ -1,0 +1,22 @@
+h1{text-align:center;}
+
+#calculator{border:2px solid blue;
+            border-radius:10px;
+            width:300px;
+            text-align:center;
+             }
+#display{border:2px;
+          margin:15px;
+          width:85%;
+        color:black;
+        font-size:30px;}
+.button-container{display:flex;
+                 justify-content:center;
+                  flex-wrap:wrap;}
+                  
+                  
+
+.button{width:70px;
+        height:70px;
+        margin:5px
+}
